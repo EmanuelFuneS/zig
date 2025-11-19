@@ -1,0 +1,7 @@
+
+# Ignore any zig-cache directories anywhere in the repo
+*zig-cache/
+
+# Ignore files named zig.zon or any ending with .zig.zon
+zig.zon
+*.zig.zon
